@@ -1,0 +1,41 @@
+body {
+    background-color: #ebeeef; 
+    font-size: 1.2em;
+}
+.center {
+    margin-left: 25%;
+    margin-top: 8%;
+    background-color: #fff;
+    width: 700px;
+    height: 500px;
+    border-radius: 20px;
+    color: #808080;
+    font: normal 100% 'century gothic', arial, sans-serif;   
+}
+
+.link {
+    margin-top: 150px;
+    margin-left: 160px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    padding: 50px;
+    background-color: #75d165;
+    border-radius: 40px;
+}
+
+a:hover {
+    background-color: #61aa54;
+}
+
+.headline {
+    background-color: #4a708b;
+    color: white;
+    height: 100px;
+    text-align: center;
+    padding-top: 10px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}

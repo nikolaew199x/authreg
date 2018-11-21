@@ -1,0 +1,52 @@
+body {
+    background-color: #ebeeef; 
+    font-size: 1.2em;
+}
+.center {
+    margin-left: 23%;
+    margin-top: 1%;
+    background-color: #fff;
+    width: 800px;
+    height: 630px;
+    border-radius: 20px;
+    color: #808080;
+    font: normal 100% 'century gothic', arial, sans-serif;   
+}
+
+.headline {
+    background-color: #4a708b;
+    color: white;
+    height: 150px;
+    text-align: center;
+    padding-top: 10px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+.profile {
+    margin: 20px;
+    font-size: 1.3em;
+    color: rgb(110, 104, 104);
+}
+
+.profile span {
+    margin-right: 70px;
+}
+
+form button {
+    background-color: #75d165;
+    color: white;
+    padding: 15px;
+    width: 200px;
+    font-size: 1.1em;
+    outline: none;
+    border: none;
+    border-radius: 40px;
+    margin-left: 580px;
+    margin-top: 300px;
+}
+
+form button:hover {
+    background-color: #61aa54;
+    cursor: pointer;
+}
